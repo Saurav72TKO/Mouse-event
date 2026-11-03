@@ -17,11 +17,6 @@ Move your mouse anywhere on the screen and the X, Y values update instantly.
 - `querySelector` & `innerHTML` - to show values in DOM
 - Flexbox & Media Queries - for centering and mobile responsiveness
 
-### 📁 Files
-├── index.html # Structure - two cards for X and Y
-├── style.css # Styling - hotpink bg, blueviolet cards
-└── script.js # Logic - mousemove event
-
 
 ### ▶️ How to Run
 
@@ -40,12 +35,6 @@ No npm, no build, pure vanilla.
 - How `mousemove` fires many times per second (needs throttle for heavy apps)
 - DOM manipulation with `querySelector`
 
-### 🚀 Future Improvements
-
-- [ ] Add `throttle()` to improve performance
-- [ ] Show `pageX` and `screenX` also
-- [ ] Add click to freeze position
-- [ ] Add a dot that follows the mouse
 
 ### 👨‍💻 Author
 Built while revising JavaScript DOM events.
